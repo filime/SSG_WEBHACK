@@ -1,4 +1,4 @@
 <?php
-    system("ls");
+    system("cd..;ls");
     echo "hi";
 ?>
