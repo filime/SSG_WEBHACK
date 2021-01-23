@@ -1,4 +1,4 @@
 <?php
-    system("ls /etc/apache2/");
+    system("ls /var/www/html/");
     echo "hi";
 ?>
